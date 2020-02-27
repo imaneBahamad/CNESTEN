@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#form-elmt{
+	position: relative;left:970px;
+	margin-bottom: 5px;
+}
+
+#form-elmt0{
+	position: relative;left:800px;
+	margin-bottom: 5px;
+}
+
+#link{
+	position: relative;left:30px;
+}
+
+.erreur{
+	color: red;
+	font-weight: bold;
+	font-size: 12px;
+	float: right;
+	position: relative;bottom: 20px;right: 60px;
+}

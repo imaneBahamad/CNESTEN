@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+	padding-bottom: 60px;
+}
+
+form fieldset {
+	border: 2px solid #208fff;
+	border-radius: 12px;
+  	padding: 50px;
+}
+
+form fieldset legend {
+	width: auto;
+	min-width: auto;
+	color: #208fff;
+	font-weight: bold;
+}
+
+form .form-group label{
+	font-weight: bold;
+	color: #414141;
+}
+
+.erreur{
+	color: red;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.info{
+	color: #f5a703;
+	font-weight: bold;
+	font-size: 12px;
+}
